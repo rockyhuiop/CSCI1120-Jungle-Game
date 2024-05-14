@@ -9,9 +9,11 @@ This program is inspired by an existing board game Dou Shou Qi (鬥獸棋). It a
 ## How to run
 Download all the source files and add them into a C++ project using tools like VS Code or CodeBlocks to run the program and generate a `.exe` file. Then, use the command line to run:
 ```
-<file_name>.exe boardset.txt
+<file_name>.exe board1.txt
 ```
-where `boardset.txt` is an optional parameter, where you can pass the text file to set initial game set-up. Example of such is `boardsample.txt`. Then, you will be asked to choose the gamemode and begin the game.
+Sample executable file is inside `BUILD` folder, the `Jungle.exe`
+
+where `board1.txt` is an optional parameter, where you can pass the text file to set initial game set-up. Example of such is `boardsample.txt`. Then, you will be asked to choose the gamemode and begin the game.
 
 ## Technologies
 This program uses pure **C++ OOP** running across 33 source and header files.
