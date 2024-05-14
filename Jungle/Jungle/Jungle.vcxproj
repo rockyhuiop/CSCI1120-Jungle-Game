@@ -158,22 +158,6 @@
     <ClCompile Include="..\..\jungle-starter\wolf.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\jungle-starter\board.h" />
-    <ClInclude Include="..\..\..\jungle-starter\cat.h" />
-    <ClInclude Include="..\..\..\jungle-starter\dog.h" />
-    <ClInclude Include="..\..\..\jungle-starter\elephant.h" />
-    <ClInclude Include="..\..\..\jungle-starter\fileman.h" />
-    <ClInclude Include="..\..\..\jungle-starter\game.h" />
-    <ClInclude Include="..\..\..\jungle-starter\human.h" />
-    <ClInclude Include="..\..\..\jungle-starter\jumper.h" />
-    <ClInclude Include="..\..\..\jungle-starter\leopard.h" />
-    <ClInclude Include="..\..\..\jungle-starter\lion.h" />
-    <ClInclude Include="..\..\..\jungle-starter\machine.h" />
-    <ClInclude Include="..\..\..\jungle-starter\piece.h" />
-    <ClInclude Include="..\..\..\jungle-starter\player.h" />
-    <ClInclude Include="..\..\..\jungle-starter\rat.h" />
-    <ClInclude Include="..\..\..\jungle-starter\tiger.h" />
-    <ClInclude Include="..\..\..\jungle-starter\wolf.h" />
     <ClInclude Include="..\..\jungle-starter\board.h" />
     <ClInclude Include="..\..\jungle-starter\cat.h" />
     <ClInclude Include="..\..\jungle-starter\dog.h" />
@@ -190,9 +174,6 @@
     <ClInclude Include="..\..\jungle-starter\rat.h" />
     <ClInclude Include="..\..\jungle-starter\tiger.h" />
     <ClInclude Include="..\..\jungle-starter\wolf.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="..\..\jungle-starter\jungle.zip" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
